@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p1kyws7iYOm1mXMu4XPpjfzXZX8kNqaqEqeTtcYw1AZ1H7nPsSY3qglxle2rL7L+BQM9bvWHNW75sUxvHhSSIQ==",
+  "dgSpecHash": "i7sxD6h29LXck9d0CjKVLh/VPhXIWCbSDl7uEPApg2strExAunDRCNj1jeVOLa56E0o9EoP2sk/id5NNB8Sk8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\BetterWindows\\BetterWindows\\BetterWindows.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\GitHub\\BetterWindows\\BetterWindows\\BetterWindows\\BetterWindows.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.18362.2005\\microsoft.windows.sdk.contracts.10.0.18362.2005.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\modernwpfui\\0.9.3\\modernwpfui.0.9.3.nupkg.sha512",

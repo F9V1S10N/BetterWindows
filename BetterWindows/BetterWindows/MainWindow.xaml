@@ -15,7 +15,9 @@
             </ui:NavigationView.Content>
             <ui:NavigationView.MenuItems>
                 <ui:NavigationViewItem Content="Yes">
-
+                    <ui:NavigationViewItem.Icon>
+                        <ui:BitmapIcon UriSource="icons/info.ico"/>
+                    </ui:NavigationViewItem.Icon>
                 </ui:NavigationViewItem>
             </ui:NavigationView.MenuItems>
         </ui:NavigationView>

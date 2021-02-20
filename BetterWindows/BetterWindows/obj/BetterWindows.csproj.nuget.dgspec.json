@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\BetterWindows\\BetterWindows\\BetterWindows.csproj": {}
+    "C:\\Users\\Administrator\\Documents\\GitHub\\BetterWindows\\BetterWindows\\BetterWindows\\BetterWindows.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\BetterWindows\\BetterWindows\\BetterWindows.csproj": {
+    "C:\\Users\\Administrator\\Documents\\GitHub\\BetterWindows\\BetterWindows\\BetterWindows\\BetterWindows.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\BetterWindows\\BetterWindows\\BetterWindows.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\BetterWindows\\BetterWindows\\BetterWindows\\BetterWindows.csproj",
         "projectName": "BetterWindows",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\BetterWindows\\BetterWindows\\BetterWindows.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\BetterWindows\\BetterWindows\\BetterWindows\\BetterWindows.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\BetterWindows\\BetterWindows\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\BetterWindows\\BetterWindows\\BetterWindows\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
