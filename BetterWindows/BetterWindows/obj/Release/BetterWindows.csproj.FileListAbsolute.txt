@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\GitHub\BetterWindows\BetterWindows\BetterWindows\obj\Release\BetterWindows.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\BetterWindows\BetterWindows\BetterWindows\obj\Release\MainWindow.g.cs
+C:\Users\Administrator\Documents\GitHub\BetterWindows\BetterWindows\BetterWindows\obj\Release\App.g.cs
+C:\Users\Administrator\Documents\GitHub\BetterWindows\BetterWindows\BetterWindows\obj\Release\BetterWindows_MarkupCompile.cache
+C:\Users\Administrator\Documents\GitHub\BetterWindows\BetterWindows\BetterWindows\obj\Release\BetterWindows_MarkupCompile.lref
+C:\Users\Administrator\Documents\GitHub\BetterWindows\BetterWindows\BetterWindows\obj\Release\App.baml
+C:\Users\Administrator\Documents\GitHub\BetterWindows\BetterWindows\BetterWindows\obj\Release\MainWindow.baml
+C:\Users\Administrator\Documents\GitHub\BetterWindows\BetterWindows\BetterWindows\obj\Release\BetterWindows.g.resources
+C:\Users\Administrator\Documents\GitHub\BetterWindows\BetterWindows\BetterWindows\obj\Release\BetterWindows.pdb
